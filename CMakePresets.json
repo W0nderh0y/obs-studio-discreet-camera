@@ -103,7 +103,7 @@
       "generator": "Visual Studio 17 2022",
       "cacheVariables": {
         "GPU_PRIORITY_VAL": {"type": "STRING", "value": "$penv{GPU_PRIORITY_VAL}"},
-        "VIRTUALCAM_GUID": {"type": "STRING", "value": "A3FCE0F5-3493-419F-958A-ABA1250EC20B"},
+        "VIRTUALCAM_GUID": {"type": "STRING", "value": "B7E4C8D2-6F1A-4E3B-9C5D-8A2F7E1B4D6C"},
         "ENABLE_BROWSER": true
       }
     },
@@ -132,7 +132,7 @@
       "generator": "Visual Studio 17 2022",
       "cacheVariables": {
         "GPU_PRIORITY_VAL": {"type": "STRING", "value": "$penv{GPU_PRIORITY_VAL}"},
-        "VIRTUALCAM_GUID": {"type": "STRING", "value": "A3FCE0F5-3493-419F-958A-ABA1250EC20B"},
+        "VIRTUALCAM_GUID": {"type": "STRING", "value": "B7E4C8D2-6F1A-4E3B-9C5D-8A2F7E1B4D6C"},
         "ENABLE_AJA": false,
         "ENABLE_BROWSER": true,
         "ENABLE_SCRIPTING": false,
